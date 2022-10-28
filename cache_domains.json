@@ -1,24 +1,10 @@
 {
 	"cache_domains": [
-		{
-			"name": "arenanet",
-			"description": "CDN for guild wars, HoT",
-			"domain_files": ["arenanet.txt"]
-		},
+		
 		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
-		},
-		{
-			"name": "bsg",
-			"description": "CDN for Battle State Games, Tarkov",
-			"domain_files": ["bsg.txt"]
-		},
-		{
-			"name": "cityofheroes",
-			"description": "CDN for City of Heroes (Homecoming)",
-			"domain_files": ["cityofheroes.txt"]
 		},
 		{
 			"name": "daybreak",
@@ -96,26 +82,6 @@
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
-		},
-		{
-			"name": "teso",
-			"description": "CDN for The Elder Scrolls Online",
-			"domain_files": ["teso.txt"]
-		},
-		{
-			"name": "warframe",
-			"description": "CDN for Warframe",
-			"domain_files": ["warframe.txt"]
-		},
-		{
-			"name": "wargaming",
-			"description": "CDN for wargaming.net",
-			"domain_files": ["wargaming.net.txt"]
-		},
-		{
-			"name": "wsus",
-			"description": "CDN for windows updates",
-			"domain_files": ["windowsupdates.txt"]
 		},
 		{
 			"name": "xboxlive",
